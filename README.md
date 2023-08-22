@@ -32,5 +32,6 @@ Configuration is first loaded from config.sh but this can be overridden with one
 
 
 ## Output (example)
-![image](https://github.com/Daudre-Vignier-Charles/kvm_infogathering/assets/17654421/e5967882-16bf-4e46-95a6-b8b2de0c5ae1)
+![1684842304547](https://github.com/Daudre-Vignier-Charles/kvm_infogathering/assets/17654421/db84699c-a9ad-44b8-a3e8-f6929f39b08a)
+
 
