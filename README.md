@@ -34,4 +34,6 @@ Configuration is first loaded from config.sh but this can be overridden with one
 ## Output (example)
 ![1684842304547](https://github.com/Daudre-Vignier-Charles/kvm_infogathering/assets/17654421/db84699c-a9ad-44b8-a3e8-f6929f39b08a)
 
+## How it work
+![infogathering drawio](https://github.com/Daudre-Vignier-Charles/kvm_infogathering/assets/17654421/f2af519e-d76a-45f2-8443-256809c82884)
 
